@@ -1,0 +1,17 @@
+[13-Apr-2022 14:27:54 UTC] PHP Notice:  Undefined variable: nump in /home/remacons/public_html/boi/insert.php on line 5
+[18-Apr-2022 17:01:08 UTC] PHP Warning:  require(../db.class.php): failed to open stream: No such file or directory in /home/remacons/public_html/boi/page/_header.php on line 2
+[18-Apr-2022 17:01:08 UTC] PHP Warning:  require(../db.class.php): failed to open stream: No such file or directory in /home/remacons/public_html/boi/page/_header.php on line 2
+[18-Apr-2022 17:01:08 UTC] PHP Fatal error:  require(): Failed opening required '../db.class.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/remacons/public_html/boi/page/_header.php on line 2
+[18-Apr-2022 17:05:01 UTC] PHP Warning:  require(../db.class.php): failed to open stream: No such file or directory in /home/remacons/public_html/boi/page/_header.php on line 2
+[18-Apr-2022 17:05:01 UTC] PHP Warning:  require(../db.class.php): failed to open stream: No such file or directory in /home/remacons/public_html/boi/page/_header.php on line 2
+[18-Apr-2022 17:05:01 UTC] PHP Fatal error:  require(): Failed opening required '../db.class.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/remacons/public_html/boi/page/_header.php on line 2
+[14-Jun-2022 22:19:34 UTC] PHP Warning:  require(../db.class.php): failed to open stream: No such file or directory in /home/remacons/public_html/boi/page/_header.php on line 2
+[14-Jun-2022 22:19:34 UTC] PHP Warning:  require(../db.class.php): failed to open stream: No such file or directory in /home/remacons/public_html/boi/page/_header.php on line 2
+[14-Jun-2022 22:19:34 UTC] PHP Fatal error:  require(): Failed opening required '../db.class.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/remacons/public_html/boi/page/_header.php on line 2
+[15-Jun-2022 01:37:14 UTC] PHP Notice:  Undefined index: login in /home/remacons/public_html/boi/access.php on line 9
+[15-Nov-2023 07:45:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/remacons/public_html/boi/access.php:31) in /home/remacons/public_html/boi/access.php on line 32
+[15-Nov-2023 07:46:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/remacons/public_html/boi/access.php:31) in /home/remacons/public_html/boi/access.php on line 32
+[15-Nov-2023 07:47:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/remacons/public_html/boi/access.php:31) in /home/remacons/public_html/boi/access.php on line 32
+[18-Nov-2023 14:29:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/remacons/public_html/boi/access.php:31) in /home/remacons/public_html/boi/access.php on line 32
+[18-Nov-2023 14:29:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/remacons/public_html/boi/access.php:31) in /home/remacons/public_html/boi/access.php on line 32
+[18-Nov-2023 14:42:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/remacons/public_html/boi/access.php:31) in /home/remacons/public_html/boi/access.php on line 32
